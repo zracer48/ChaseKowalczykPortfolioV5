@@ -1,0 +1,135 @@
+{
+  "activities": [
+    {
+      "title": "DECA",
+      "desc": "Led marketing and fundraising for 100-member club; state qualifier in financial team event; 3rd in district cluster exam."
+    },
+    {
+      "title": "Investing Guide and Investment Club",
+      "desc": "Wrote 10/12 chapters of teen investing guide (~15,000 words); researched stocks and strategies in club; built simulated portfolio."
+    },
+    {
+      "title": "Colts for Cancer",
+      "desc": "Co-founded cancer fundraising initiative; raised ~$1,500 for Memorial Sloan Kettering; coordinated school outreach and weekly meetings."
+    },
+    {
+      "title": "Competitive Club Soccer",
+      "desc": "Competed in MLS NEXT, ECNL and EDP; captained multiple teams; played 50+ showcases/tournaments; teams ranked top 3 in NJ multiple times."
+    },
+    {
+      "title": "Lasallian Youth Club",
+      "desc": "Organized service groups with faculty; supported food drives and shelters by sorting donations, stocking shelves and distributing food."
+    },
+    {
+      "title": "Lifeguarding",
+      "desc": "Supervised 2 pools as CPR-certified lifeguard and registered first responder; prepared pool deck and handled opening and closing shifts."
+    },
+    {
+      "title": "School Soccer",
+      "desc": "Won freshman and JV regional titles; earned annual Coach's MVP awards; scored 10–15 goals/season across 24–28 games; contributed assists."
+    },
+    {
+      "title": "School Ambassadors and Peer Mentoring",
+      "desc": "Hosted 4 prospective students/year for full-day visits; led tours and open houses; answered family questions; mentored 2 freshmen."
+    },
+    {
+      "title": "Food Relief Volunteering",
+      "desc": "Completed 180+ service hours; made 50+ sandwiches/session; sorted produce with Delicious Orchards and organized food donations."
+    },
+    {
+      "title": "Pizzeria Employment",
+      "desc": "Delivered orders to neighboring towns during evening shifts; served customers at the counter and handled pizzeria closing duties."
+    }
+  ],
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Why Starting Early Changes Everything",
+      "points": [
+        "Difference between saving vs investing",
+        "What “assets” are (stocks, businesses, etc.)",
+        "Introduce compound growth (simple explanation)",
+        "Show example:",
+        "$100 invested at 13 vs 18 vs 25"
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Understanding Money Before You Invest",
+      "points": [
+        "Allowance",
+        "Babysitting",
+        "Lawn work",
+        "Small online gigs",
+        "Needs vs wants"
+      ]
+    },
+    {
+      "num": 3,
+      "title": "What You’re Actually Investing In",
+      "points": [
+        "Explain using a relatable company example",
+        "Why index funds are beginner-friendly",
+        "What they are",
+        "Why they’re safer but slower growing",
+        "Why higher returns usually mean higher risk"
+      ]
+    },
+    {
+      "num": 4,
+      "title": "How to Start as a Teen",
+      "points": [
+        "Parent/guardian involvement",
+        "Basic explanation",
+        "If you have earned income",
+        "Why starting this early is powerful",
+        "Basic explanation of brokerages"
+      ]
+    },
+    {
+      "num": 5,
+      "title": "The Power of Compound Growth",
+      "points": [
+        "Money earning money",
+        "Snowball example",
+        "$50/month starting at 14",
+        "$50/month starting at 22",
+        "Show how slow and steady builds wealth"
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Avoiding Beginner Mistakes",
+      "points": [
+        "Make this very relatable to teens (TikTok trends, crypto hype, etc.)"
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Building Your First Simple Portfolio",
+      "points": [
+        "70–90% index fund",
+        "Small portion individual stocks (optional)",
+        "Monthly consistency"
+      ]
+    },
+    {
+      "num": 8,
+      "title": "The Psychology of Investing",
+      "points": [
+        "Explain crashes simply"
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Your 5-Step Plan to Start This Year",
+      "points": [
+        "Encouragement",
+        "Long-term vision",
+        "“Your future self will thank you”",
+        "Glossary (simple investing terms)",
+        "Frequently Asked Questions"
+      ]
+    }
+  ]
+}
